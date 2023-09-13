@@ -1,5 +1,5 @@
 # my-homelab-setup
-picture of the lab:  
+picture of the setup:  
 ![alt text](https://github.com/N42950M/my-homelab-setup/blob/main/images/dalab.png?raw=true)
 ### parts from top to bottom:  
 random monitor from my basement (no idea the model)  
