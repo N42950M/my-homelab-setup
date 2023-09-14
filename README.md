@@ -34,7 +34,7 @@ nginx proxy manager (reverse proxy): https://github.com/NginxProxyManager/nginx-
 pi-hole (local dns server): https://github.com/pi-hole/pi-hole  
 ntfy (notification sender):  https://github.com/binwiederhier/ntfy  
 diun (docker update notifier): https://github.com/crazy-max/diun  
-duckdns (dynamic dns service): https://www.duckdns.org/ (no github, linuxserver.io docker image though)  
+duckdns (dynamic dns service): https://www.duckdns.org/  
 wg-easy (easy wireguard vpn setup for server): https://github.com/wg-easy/wg-easy  
 nginx (hosting simple webpage): https://github.com/nginx/nginx  
 minecraft server (self explanatory): https://github.com/itzg/docker-minecraft-server  
