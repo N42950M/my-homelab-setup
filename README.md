@@ -28,7 +28,6 @@ tubearchivist (youtube archiver): https://github.com/tubearchivist/tubearchivist
 cyberChef (cyber swiss army knife): https://github.com/gchq/CyberChef  
 serge (selfhosted LLMs): https://github.com/serge-chat/serge  
 navidrome (music server for my CDs): https://github.com/navidrome/navidrome  
-nextcloud (data server): https://github.com/nextcloud/server  
 speedtest tracker (hourly speedtest with ookala): https://github.com/henrywhitaker3/Speedtest-Tracker  
 jellyfin (media server for my Blurays/DVDs): https://github.com/jellyfin/jellyfin  
 nginx proxy manager (reverse proxy): https://github.com/NginxProxyManager/nginx-proxy-manager  
