@@ -32,7 +32,7 @@ speedtest tracker (hourly speedtest with ookala): https://github.com/henrywhitak
 jellyfin (media server for my Blurays/DVDs): https://github.com/jellyfin/jellyfin  
 nginx proxy manager (reverse proxy): https://github.com/NginxProxyManager/nginx-proxy-manager  
 pi-hole (local dns server): https://github.com/pi-hole/pi-hole  
-ntfy (notification sender):  https://github.com/binwiederhier/ntfy  
+gotify (notification reciever): https://github.com/gotify/server  
 diun (docker update notifier): https://github.com/crazy-max/diun  
 duckdns (dynamic dns service): https://www.duckdns.org/  
 wg-easy (easy wireguard vpn setup for server): https://github.com/wg-easy/wg-easy  
