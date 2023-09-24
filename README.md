@@ -41,3 +41,5 @@ minecraft server (self explanatory): https://github.com/itzg/docker-minecraft-se
 HKMP server (hollow knight multiplayer): https://github.com/Extremelyd1/HKMP  
 Rdesktop ("vm" connectable through rdp): https://github.com/linuxserver/docker-rdesktop  
 vaultwarden (bitwarden server): https://github.com/dani-garcia/vaultwarden
+syncplay server (sync video with others): https://github.com/Syncplay/syncplay
+cups server (print to usb printer remotely): https://github.com/anujdatar/cups-docker
