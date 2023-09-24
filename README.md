@@ -1,7 +1,7 @@
 # my-homelab-setup
 picture of the setup: \
 ![alt text](https://github.com/N42950M/my-homelab-setup/blob/main/images/dalab.png?raw=true)
-### parts from top to bottom: \
+### parts from top to bottom:
 random monitor from my basement (no idea the model) \
 Sophos SG 230 Rev.1 running OPNsense (https://opnsense.org/) \
 SODOLA 16 Port Gigabit Ethernet Network Switch \
@@ -13,8 +13,8 @@ startech.com 1u server rack shelf \
 startech.com 16 outlet horizontal 1u \
 CyberPower CP1500PFCRM2U UPS \
 all on a StarTech.com 12U 19" Rack \
- \
-### Services being hosted in no particular order, almost everything is in a docker container: \
+
+### Services being hosted in no particular order, almost everything is in a docker container:
 portainer (docker management): https://www.portainer.io/ \
 homepage (hompage app dashboard): https://github.com/benphelps/homepage \
 mumble (voip server): https://github.com/mumble-voip/mumble-docker \
@@ -42,4 +42,4 @@ HKMP server (hollow knight multiplayer): https://github.com/Extremelyd1/HKMP \
 Rdesktop ("vm" connectable through rdp): https://github.com/linuxserver/docker-rdesktop \
 vaultwarden (bitwarden server): https://github.com/dani-garcia/vaultwarden \
 syncplay server (sync video with others): https://github.com/Syncplay/syncplay \
-cups server (print to usb printer remotely): https://github.com/anujdatar/cups-docker \
+cups server (print to usb printer remotely): https://github.com/anujdatar/cups-docker
