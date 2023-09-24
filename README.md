@@ -12,7 +12,7 @@ Asus chromebox flashed to debian with a 12tb wd red pro connected through an ext
 startech.com 1u server rack shelf \
 startech.com 16 outlet horizontal 1u \
 CyberPower CP1500PFCRM2U UPS \
-all on a StarTech.com 12U 19" Rack \
+all on a StarTech.com 12U 19" Rack
 
 ### Services being hosted in no particular order, almost everything is in a docker container:
 portainer (docker management): https://www.portainer.io/ \
