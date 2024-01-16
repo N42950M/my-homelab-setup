@@ -23,7 +23,6 @@ filebrowser (file browsing): https://github.com/filebrowser/filebrowser \
 freshRSS (rss feed reeder): https://github.com/FreshRSS/FreshRSS \
 thelounge (IRC client): https://github.com/thelounge/thelounge \
 joplin (notes software): https://github.com/laurent22/joplin \
-n.eko (docker virtual browser): https://github.com/m1k1o/neko \
 tubearchivist (youtube archiver): https://github.com/tubearchivist/tubearchivist \
 cyberChef (cyber swiss army knife): https://github.com/gchq/CyberChef \
 serge (selfhosted LLMs): https://github.com/serge-chat/serge \
@@ -42,3 +41,4 @@ HKMP server (hollow knight multiplayer): https://github.com/Extremelyd1/HKMP \
 Rdesktop ("vm" connectable through rdp): https://github.com/linuxserver/docker-rdesktop \
 vaultwarden (bitwarden server): https://github.com/dani-garcia/vaultwarden \
 syncplay server (sync video with others): https://github.com/Syncplay/syncplay
+gluetun (VPN for docker containers, needed for tubearchivist due to rate limiting): https://github.com/qdm12/gluetun
