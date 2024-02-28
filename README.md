@@ -37,8 +37,6 @@ duckdns (dynamic dns service): https://www.duckdns.org/ \
 wg-easy (easy wireguard vpn setup for server): https://github.com/wg-easy/wg-easy \
 nginx (hosting simple webpage): https://github.com/nginx/nginx \
 minecraft server (self explanatory): https://github.com/itzg/docker-minecraft-server \
-HKMP server (hollow knight multiplayer): https://github.com/Extremelyd1/HKMP \
-Rdesktop ("vm" connectable through rdp): https://github.com/linuxserver/docker-rdesktop \
 vaultwarden (bitwarden server): https://github.com/dani-garcia/vaultwarden \
 syncplay server (sync video with others): https://github.com/Syncplay/syncplay  
 gluetun (VPN for docker containers, needed for tubearchivist due to rate limiting): https://github.com/qdm12/gluetun
